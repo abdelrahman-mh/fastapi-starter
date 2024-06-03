@@ -1,6 +1,6 @@
 # FastAPI Starter Code
 
-This starter code builds to be have lees code possible to get started with FastAPI project. while offering a robust and nice structure project ✨🔥
+This starter code builds to be have lees code possible to get started with FastAPI project. while offering a robust and nice structed project ✨🔥
 
 ## Feature
 
