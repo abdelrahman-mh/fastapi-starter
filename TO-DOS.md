@@ -1,0 +1,3 @@
+- [ ] Add simple tests
+- [ ] Enhance Routing
+- [ ] Add linter and formatter

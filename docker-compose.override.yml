@@ -1,0 +1,27 @@
+services:
+  db:
+    restart: 'no'
+    ports:
+      - '5432:5432'
+
+  adminer:
+    restart: 'no'
+    ports:
+      - '8080:8080'
+
+  server:
+    restart: 'no'
+    ports:
+      - '8888:80'
+    build:
+      context: ./server
+      
+
+    volumes:
+      - ./server/:/app
+    # command: sleep infinity  # Infinite loop to keep container alive doing nothing
+    command: /start-reload.sh
+
+networks:
+  app-public:
+    external: false

@@ -1,0 +1,22 @@
+[
+  { "name": "Alice Smith", "email": "alice.smith@example.com", "password": "Password123!" },
+  { "name": "Bob Johnson", "email": "bob.johnson@example.com", "password": "SecurePass456!" },
+  { "name": "Charlie Brown", "email": "charlie.brown@example.com", "password": "Passw0rd!" },
+  { "name": "David Williams", "email": "david.williams@example.com", "password": "D@vid1234" },
+  { "name": "Eve Davis", "email": "eve.davis@example.com", "password": "EvePassword!" },
+  { "name": "Frank Miller", "email": "frank.miller@example.com", "password": "Frank123!" },
+  { "name": "Grace Wilson", "email": "grace.wilson@example.com", "password": "Gr@ce123" },
+  { "name": "Henry Moore", "email": "henry.moore@example.com", "password": "HenryM00re!" },
+  { "name": "Ivy Taylor", "email": "ivy.taylor@example.com", "password": "IvyTayl0r!" },
+  { "name": "Jack Anderson", "email": "jack.anderson@example.com", "password": "Jack@nd3rson" },
+  { "name": "Kara Thomas", "email": "kara.thomas@example.com", "password": "KaraTh0m@s" },
+  { "name": "Leo Martin", "email": "leo.martin@example.com", "password": "L3oMart1n" },
+  { "name": "Mia Jackson", "email": "mia.jackson@example.com", "password": "MiaJ@cks0n!" },
+  { "name": "Nina Harris", "email": "nina.harris@example.com", "password": "NinaHarr1s" },
+  { "name": "Owen Clark", "email": "owen.clark@example.com", "password": "0wenCl@rk" },
+  { "name": "Paula Lewis", "email": "paula.lewis@example.com", "password": "P@ulaL3wis" },
+  { "name": "Quincy Walker", "email": "quincy.walker@example.com", "password": "Qu1ncyW@lker" },
+  { "name": "Rachel Young", "email": "rachel.young@example.com", "password": "RachelY0ung!" },
+  { "name": "Sam King", "email": "sam.king@example.com", "password": "SamK1ng!" },
+  { "name": "Tina Scott", "email": "tina.scott@example.com", "password": "TinaSc0tt!" }
+]

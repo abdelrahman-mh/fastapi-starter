@@ -1,0 +1,5 @@
+fastapi
+sqlmodel
+pydantic-settings
+psycopg
+tenacity
